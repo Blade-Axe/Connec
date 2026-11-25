@@ -1,0 +1,13 @@
+name: Connec
+description: $description
+prefix: CONNEC
+version: '${version}'
+
+main: com.bladeaxe.connec.Connec
+bootstrapper: com.bladeaxe.connec.ConnecBootstrap
+loader: com.bladeaxe.connec.ConnecLoader
+api-version: '26.3'
+load: STARTUP
+
+authors: [ BladeAxe ]
+website: https://www.bladeaxe.com
